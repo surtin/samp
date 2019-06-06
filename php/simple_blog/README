@@ -1,0 +1,14 @@
+Requires a database to be setup in MySQL with a few tables as follows:
+
+Users
+- id
+- name
+- email
+- password
+Shares
+- id 
+- title
+- body
+- link
+
+auto int for id and a current_date for created_date field.
